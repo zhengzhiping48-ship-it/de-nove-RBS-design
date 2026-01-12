@@ -30,28 +30,28 @@ Validation: Generated sequences successfully recapitulate conserved motifs and s
 # Requirements
 This project is implemented in Python 3.9+ and requires the following packages:
 
-# Deep Learning Frameworks:
-torch>=1.9.0
-torchvision>=0.10.0
-tensorflow==2.8.0
-transformers>=4.30.0
+Deep Learning Frameworks:
+- torch>=1.9.0
+- torchvision>=0.10.0
+- tensorflow==2.8.0
+- transformers>=4.30.0
 
-# Numerical & Data Processing:
-numpy>=1.19.0
-pandas>=1.2.0
-scipy>=1.6.0
-scikit-learn>=0.24.0
-biopython>=1.79
+Numerical & Data Processing:
+- numpy>=1.19.0
+- pandas>=1.2.0
+- scipy>=1.6.0
+- scikit-learn>=0.24.0
+- biopython>=1.79
 
-# Visualization:
-matplotlib>=3.4.0
-seaborn>=0.11.0
-plotly>=5.14.0
+Visualization:
+- matplotlib>=3.4.0
+- seaborn>=0.11.0
+- plotly>=5.14.0
 
-# Utilities:
-tqdm>=4.60.0
-einops>=0.3.0
-Pillow>=8.1.0
-IPython>=7.25.0
-torchmetrics>=0.5.0
-livelossplot>=0.5.3
+Utilities:
+- tqdm>=4.60.0
+- einops>=0.3.0
+- Pillow>=8.1.0
+- IPython>=7.25.0
+- torchmetrics>=0.5.0
+- livelossplot>=0.5.3
