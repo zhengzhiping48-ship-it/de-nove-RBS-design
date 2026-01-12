@@ -1,4 +1,4 @@
-# de-nove-RBS-design
+# De-nove-RBS-design
 A computational tool for the de novo design and optimization of Ribosome Binding Sites (RBS). This project utilizes algorithmic models to provide efficient and predictable RBS sequence design solutions for gene expression regulation in synthetic biology and metabolic engineering.
 
 # Overview
